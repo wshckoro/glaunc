@@ -1,0 +1,22 @@
+[
+  {
+    "name": "JADE",
+    "path": "facmods/Jade-1.18.2-forge-5.3.0.jar",
+    "defaultEnabled": true
+  },
+  {
+    "name": "Just Enough Items",
+    "path": "facmods/jei-1.18.2-forge-10.2.1.1005.jar",
+    "defaultEnabled": true
+  },
+  {
+    "name": "JourneyMap",
+    "path": "facmods/journeymap-1.18.2-5.9.7-forge.jar",
+    "defaultEnabled": true
+  },
+  {
+    "name": "Just Zoom",
+    "path": "facmods/justzoom_forge_1.0.2-1_MC_1.18.2.jar",
+    "defaultEnabled": true
+  }
+]
