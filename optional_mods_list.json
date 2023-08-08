@@ -46,11 +46,11 @@
   },
   {
     "name": "KFF (nécessaire pour InventoryProfiles)",
-    "path": "facmods/kotlinforforge-3.4.0-obf.jar",
+    "path": "facmods/libs/kotlinforforge-3.11.0-all.jar",
     "defaultEnabled": true
   },
   {
-    "name": "LibIPN (Nécessaire pour LegendaryTooltips)",
+    "name": "LibIPN (Nécessaire pour InventoryProfiles)",
     "path": "facmods/libs/libIPN-forge-1.18.2-3.0.2.jar",
     "defaultEnabled":  true
   }
