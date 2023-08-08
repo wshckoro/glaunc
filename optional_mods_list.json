@@ -30,6 +30,16 @@
     "defaultEnabled": false
   },
   {
+    "name": "Prism (Nécessaire pour LegendaryTooltips)",
+    "path": "facmods/libs/Prism-1.18.2-1.0.1.jar",
+    "defaultEnabled": true
+  },
+  {
+    "name": "Iceberg (Nécessaire pour LegendaryTooltips)",
+    "path": "facmods/libs/Iceberg-1.18.2-forge-1.0.49.jar",
+    "defaultEnabled": true
+  },
+  {
     "name": "InventoryProfiles",
     "path": "facmods/Inventory-Profiles-Mod-Forge-1.18.2.jar",
     "defaultEnabled": true
@@ -38,5 +48,10 @@
     "name": "KFF (nécessaire pour InventoryProfiles)",
     "path": "facmods/kotlinforforge-3.4.0-obf.jar",
     "defaultEnabled": true
+  },
+  {
+    "name": "LibIPN (Nécessaire pour LegendaryTooltips)",
+    "path": "facmods/libs/libIPN-forge-1.18.2-3.0.2.jar",
+    "defaultEnabled":  true
   }
 ]
