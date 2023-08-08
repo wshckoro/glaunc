@@ -38,20 +38,5 @@
     "name": "Iceberg (Nécessaire pour LegendaryTooltips)",
     "path": "facmods/libs/Iceberg-1.18.2-forge-1.0.49.jar",
     "defaultEnabled": true
-  },
-  {
-    "name": "InventoryProfiles",
-    "path": "facmods/Inventory-Profiles-Mod-Forge-1.18.2.jar",
-    "defaultEnabled": true
-  },
-  {
-    "name": "KFF (nécessaire pour InventoryProfiles)",
-    "path": "facmods/libs/kotlinforforge-3.11.0-all.jar",
-    "defaultEnabled": true
-  },
-  {
-    "name": "LibIPN (Nécessaire pour InventoryProfiles)",
-    "path": "facmods/libs/libIPN-forge-1.18.2-3.0.2.jar",
-    "defaultEnabled":  true
   }
 ]
