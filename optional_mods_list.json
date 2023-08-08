@@ -33,5 +33,10 @@
     "name": "InventoryProfiles",
     "path": "facmods/Inventory-Profiles-Mod-Forge-1.18.2.jar",
     "defaultEnabled": true
+  },
+  {
+    "name": "KFF (nécessaire pour InventoryProfiles)",
+    "path": "facmods/kotlinforforge-3.4.0-obf.jar",
+    "defaultEnabled": true
   }
 ]
